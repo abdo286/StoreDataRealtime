@@ -1,7 +1,5 @@
-**Title: StoreDataRealtime**
-
 **Description:**
-RecipeBook is a user-friendly Android application developed using Android Studio, designed to be your ultimate cooking companion. Whether you're a seasoned chef or just starting out in the kitchen, RecipeBook has everything you need to explore, discover, and create delicious dishes.
+StoreDataRealtime is a user-friendly Android application developed using Android Studio, designed to be your ultimate cooking companion. Whether you're a seasoned chef or just starting out in the kitchen, RecipeBook has everything you need to explore, discover, and create delicious dishes.
 
 **Key Features:**
 
